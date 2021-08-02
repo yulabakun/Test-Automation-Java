@@ -1,2 +1,2 @@
 This is my test automation tutorial project
-Use Java, Maven, Selenium
+Technologies used: Java, Maven, Selenium
